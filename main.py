@@ -5,7 +5,7 @@ app.geometry("600x600")
 
 #App title
 app.title('NOTEDOWN')
-app.config(bg="#4fff78")
+app.config(bg="#4f1f78")
 app.resizable(False,False)
 
 app.mainloop()
